@@ -4,6 +4,8 @@ The public [Model Context Protocol](https://modelcontextprotocol.io) server for
 [Epic Video](https://epicvideo.lol): generate short AI videos with sound from
 text prompts, with optional locked characters.
 
+[![Epic Video MCP server](https://mcprush.com/badge/epic-video-mcp/card.svg)](https://mcprush.com/to/epic-video-mcp?ref=badge)
+
 - **Remote endpoint:** `https://mcp.epicvideo.lol/mcp` (Streamable HTTP)
 - **Registry name:** `io.github.japage1928/epic-video`
 - **Discovery:** `initialize` and `tools/list` work without credentials; tool
